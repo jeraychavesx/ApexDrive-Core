@@ -1,0 +1,7 @@
+1. chore(init): configurar estructura base del proyecto, .gitignore y .env.example
+2. feat(theme): implementar sistema de diseño Cyberpunk y conmutador de tema (Dark/Light)
+3. feat(nav): construir barra de navegación interactiva y responsive
+4. feat(hero): agregar sección Hero con fondo de video FPV y tarjeta HUD
+5. feat(competitions): maquetar regla de torneo y contadores dinámicos
+6. feat(leaderboard): estructurar tabla de posiciones y simulación en vivo
+7. docs(readme): añadir documentación completa del proyecto y guía de instalación
